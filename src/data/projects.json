@@ -1,26 +1,26 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "title": "Atudent Wallet",
+    "imageSrc": "projects/wallet.png",
+    "description": "A web platform for students to upload and search study notes by course and subject, helping them collaborate and learn effectively.”",
+    "skills": ["html", "css", "JavaScript","php", "Bootstrap" ],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/Hiran-Joy/PhpCollab"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
+    "title": "Protarck",
+    "imageSrc": "projects/protrack.png",
+    "description": "A Flutter-based project management app for college students and faculty to track, submit, and evaluate academic projects efficiently.",
+    "skills": ["Flutter", "Supabase", "Mobile Development", "Dart"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "http://github.com/jais0505/ProTrack"
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "title": "Turfzy",
+    "imageSrc": "projects/turfzy.png",
+    "description": "A PHP-based turf booking system that allows users to reserve sports grounds and lets the admin manage bookings and turf information.",
+    "skills": ["html", "css", "JavaScript", "php", "MySql"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/jais0505/TurfBooking"
   }
 ]

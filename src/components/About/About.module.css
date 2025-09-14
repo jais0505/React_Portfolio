@@ -54,6 +54,12 @@
   background-repeat: no-repeat;
   transition: 0.4s;
 }
+.phoneImg{
+  height: 100px;
+  width: 100px;
+  margin-left: 0;
+  margin-right: 0;
+}
 
 .aboutItem:hover {
   background-size: 100% 100%;

@@ -2,10 +2,12 @@ import React from "react";
 
 import styles from "./About.module.css";
 
-import aboutImage from '../../../assets/about/AboutImaeg2.png'
+import aboutImage from '../../../assets/about/AboutBoy2.png'
 import cursorIcon from '../../../assets/about/cursorIcon.png'
 import serverIcon from '../../../assets/about/serverIcon.png'
+import phone from '../../../assets/about/phone.png'
 import uiIcon from '../../../assets/about/uiIcon.png'
+
 
 
 export const About = () => {
@@ -24,8 +26,7 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Frontend Developer</h3>
               <p>
-                I'm a frontend developer with experience in building responsive
-                and optimized sites
+                I'm a frontend developer with experience in building responsive and modern web apps with React
               </p>
             </div>
           </li>
@@ -35,7 +36,16 @@ export const About = () => {
               <h3>Backend Developer</h3>
               <p>
                 I have experience developing fast and optimised back-end systems
-                and APIs
+                and APIs with Node.js & MongoDB
+              </p>
+            </div>
+          </li>
+           <li className={styles.aboutItem}>
+            <img className={styles.phoneImg} src={phone} alt="Phone icon" />
+            <div className={styles.aboutItemText}>
+              <h3>Mobile Developer</h3>
+              <p>
+                Developing cross-platform apps with Flutter for smooth user experiences.
               </p>
             </div>
           </li>
